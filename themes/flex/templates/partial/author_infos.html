@@ -1,0 +1,6 @@
+<div id="author-infos">
+    <h2>{#{ _('Written by') }#}Ecrit par</h2>
+    <a class="author-infos__image" href="{{ AUTHORS_INFOS[article.author.slug]['twitter'] }}" target="_blank"><img src="{{ AUTHORS_INFOS[article.author.slug]['image'] }}" alt="{{ article.author }}"></a>
+    <a class="author-infos__name" href="{{ AUTHORS_INFOS[article.author.slug]['twitter'] }}" target="_blank"><h3> {{ article.author }} <i class="fa fa-twitter"></i></h3></a>
+    <p>{{ AUTHORS_INFOS[article.author.slug]['role'] }}</p>
+</div>

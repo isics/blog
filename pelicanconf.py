@@ -30,8 +30,7 @@ DEFAULT_LANG = 'fr'
 LOCALE = 'fr_FR'
 OG_LOCALE = 'fr_FR'
 
-# JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
-JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 
 PLUGIN_PATHS = ['pelican-plugins']
@@ -73,6 +72,11 @@ CC_LICENSE = {
 
 
 AUTHORS_INFOS = {
+    'jeremy-fournaise': {
+        'image': '/images/jeremy-fournaise.png',
+        'role': 'Chef de projet web & mobile chez <a href="http://www.isics.fr" target="_blank">Isics</a>',
+        'twitter': 'https://twitter.com/jfournaise'
+    },
     'nicolas-charlot': {
         'image': '/images/nicolas-charlot.png',
         'role': 'Co-fondateur & CEO <a href="http://www.isics.fr" target="_blank">Isics</a>, Co-fondateur & CTO <a href="http://www.spacefoot.com" target="_blank">Spacefoot</a>',

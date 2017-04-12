@@ -46,7 +46,7 @@ Son constat : avant Symfony 2.7 le composant serializer de Symfony n'était pas 
 
 Au final :
 
-* Le bundle reste limité comparé a JMS mais inclus la base nécessaire à la majorité des cas
+* Le bundle reste limité comparé à JMS mais inclus la base nécessaire à la majorité des cas
 * Plus léger donc plus rapide
 * Plus simple d'utilisation (à vérifier...)
 
@@ -99,7 +99,7 @@ Le token est composé de 3 parties :
 * Payload : propriétés (sub / exp / name / roles / ...)
 * Signature : header et payload encodés en base 64, le tout chiffré avec l'algorithme choisi
 
-Ainsi le header de chaque requête / réponse peut contenir un ensemble de données (via le payload), le tout de manière sécurisée (la signature sert à contrôler l'intégrité, mais bien penser au HTTPS !), et ainsi nous éviter de faire des requêtes supplémentaires pour contrôler les rôles d'une utilisateur par exemple.
+Ainsi le header de chaque requête / réponse peut contenir un ensemble de données (via le payload), le tout de manière sécurisée (la signature sert à contrôler l'intégrité, mais bien penser au HTTPS !), et ainsi nous éviter de faire des requêtes supplémentaires pour contrôler les rôles d'un utilisateur par exemple.
 
 
 Et l'intégration dans un projet Symfony ?

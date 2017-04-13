@@ -1,5 +1,5 @@
 Title: Retour sur le Symfony Live Paris 2017 - Jour 1
-Date: 2017-04-12 09:00
+Date: 2017-04-13 09:00
 Category: Events
 Tags: Symfony, PHP
 Authors: Jérémy Fournaise

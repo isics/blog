@@ -46,14 +46,14 @@ Son constat : avant Symfony 2.7 le composant serializer de Symfony n'était pas 
 
 Au final :
 
-* Le bundle reste limité comparé à JMS mais inclus la base nécessaire à la majorité des cas
+* Le composant reste limité comparé à JMS mais inclus la base nécessaire à la majorité des cas
 * Plus léger donc plus rapide
 * Plus simple d'utilisation (à vérifier...)
 
 Mais :
 
 * Sérialisation des erreurs pas intégrée de base (pour bientôt, PR en cours)
-* Gestion des références circulaires non intégrée de base (pourquoi ?!)
+* Gestion des références circulaires : l'implémentation d'un handler est indispensable. Même si celle-ci a été fortement simplifiée depuis la 3.3 (merci @lyrixx) on aurait aimé quelque chose de plus transparent (comme le propose JMS).
 
 En savoir plus : [https://speakerdeck.com/lyrixx/symfony-live-2017-serializer](https://speakerdeck.com/lyrixx/symfony-live-2017-serializer)
 

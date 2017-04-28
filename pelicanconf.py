@@ -77,6 +77,11 @@ AUTHORS_INFOS = {
         'role': 'Chef de projet web & mobile chez <a href="http://www.isics.fr" target="_blank">Isics</a>',
         'twitter': 'https://twitter.com/jfournaise'
     },
+    'julien-pottier': {
+        'image': '/images/julien-pottier.png',
+        'role': 'Lead dev. PHP (certifié Symfony) chez <a href="http://www.isics.fr" target="_blank">Isics</a>',
+        'twitter': 'https://twitter.com/pottier08'
+    },
     'nicolas-charlot': {
         'image': '/images/nicolas-charlot.png',
         'role': 'Co-fondateur & CEO <a href="http://www.isics.fr" target="_blank">Isics</a>, Co-fondateur & CTO <a href="http://www.spacefoot.com" target="_blank">Spacefoot</a>',

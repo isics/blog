@@ -187,4 +187,4 @@ La journée s'est achevée par un apéritif avec la communauté.
 De la bière et des chouettes rencontres, que demander de plus !
 
 
-A suivre ...
+[A suivre ...](https://blog.isics.fr/retour-sur-le-symfony-live-paris-2017-jour-2.html)

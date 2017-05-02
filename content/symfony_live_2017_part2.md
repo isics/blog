@@ -4,7 +4,7 @@ Category: Events
 Tags: Symfony, PHP
 Authors: Julien Pottier
 
-Vous allez pu lire notre retour sur cette [première journée du Symfony Live](https://blog.isics.fr/retour-sur-le-symfony-live-paris-2017-jour-1.html) bien remplie. Revenons à présent sur le jour 2. C'est parti !
+Vous avez pu lire notre retour sur cette [première journée du Symfony Live](https://blog.isics.fr/retour-sur-le-symfony-live-paris-2017-jour-1.html) bien remplie. Revenons à présent sur le jour 2. C'est parti !
 
 ## Qui veut gagner une carrière de développeur ?
 

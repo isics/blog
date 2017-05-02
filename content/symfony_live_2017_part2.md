@@ -1,5 +1,5 @@
 Title: Retour sur le Symfony Live Paris 2017 - Jour 2
-Date: 2017-04-28 15:30
+Date: 2017-05-02 09:15
 Category: Events
 Tags: Symfony, PHP
 Authors: Julien Pottier

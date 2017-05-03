@@ -38,7 +38,7 @@ La refactorisation l'a emmené d'une classe à plus d'une vingtaine, mais chacun
 
 *photo issue du compte Twitter du [SymfonyLive](https://twitter.com/symfony_live)*
 
-En savoir plus : [https://speakerdeck.com/lolautruche/architecture-inutile]()
+En savoir plus : [https://speakerdeck.com/lolautruche/architecture-inutile](https://speakerdeck.com/lolautruche/architecture-inutile)
 
 ## Déployer une app Symfony dans un PaaS
 
@@ -48,7 +48,7 @@ Tristan Darricau nous démontre que ce n'est pas aussi simple que ça. En effet,
 
 Le build se reposera sur la description de l'infrastructure présente dans le code ainsi que des variables d'environnement afin de définir des valeurs de configuration nécessaires à nos services.
 
-En savoir plus : [https://speakerdeck.com/nicofuma/symfony-live-paris-2017]()
+En savoir plus : [https://speakerdeck.com/nicofuma/symfony-live-paris-2017](https://speakerdeck.com/nicofuma/symfony-live-paris-2017)
 
 ## Sécurité web : et si on continuait à tout casser ?
 
@@ -72,7 +72,7 @@ Attention toutefois, ces API sont orientées ressources et non services (car gé
 
 Chez Isics, on avait testé API Platform v1 et les performances nous avaient laissés dubitatif. A retester donc !
 
-En savoir plus : [https://dunglas.fr/2017/04/api-platform-2-1-when-symfony-meets-reactjs-symfony-live-2017/]()
+En savoir plus : [https://dunglas.fr/2017/04/api-platform-2-1-when-symfony-meets-reactjs-symfony-live-2017/](https://dunglas.fr/2017/04/api-platform-2-1-when-symfony-meets-reactjs-symfony-live-2017/)
 
 ## Tout ce qu’un dev devrait savoir à propos d’Unicode
 
@@ -86,7 +86,7 @@ Nicolas a su titiller notre intérêt avec un sujet qui paraissait simple, et po
 
 *photo issue du compte Twitter du [SymfonyLive](https://twitter.com/symfony_live)*
 
-En savoir plus : [https://speakerdeck.com/nicolasgrekas/tout-ce-quun-dev-devrait-savoir-a-propos-dunicode]()
+En savoir plus : [https://speakerdeck.com/nicolasgrekas/tout-ce-quun-dev-devrait-savoir-a-propos-dunicode](https://speakerdeck.com/nicolasgrekas/tout-ce-quun-dev-devrait-savoir-a-propos-dunicode)
 
 ## Optimisations de performances avec PHP7
 
@@ -108,10 +108,10 @@ A noter au niveau des versions de PHP :
 * PHP 5 ne sera plus maintenu à partir du 31 décembre 2018 *(security support étendu d'un an)*
 * PHP 8 ne sortira pas avant 2020
 
-*(source [http://php.net/supported-versions.php]())*
+*(source [http://php.net/supported-versions.php](http://php.net/supported-versions.php))*
 
 ![SymfonyLive 2017 - Isics]({filename}/images/sflive2017_07.jpg)
 
 *photo issue du compte Twitter du [SymfonyLive](https://twitter.com/symfony_live)*
 
-En savoir plus : [https://www.slideshare.net/jpauli/symfony-live-2017php7performances]()
+En savoir plus : [https://www.slideshare.net/jpauli/symfony-live-2017php7performances](https://www.slideshare.net/jpauli/symfony-live-2017php7performances)
